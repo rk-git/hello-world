@@ -5,3 +5,4 @@ public class Hello {
   }
 }
 // squash test 1
+// squash test 2
